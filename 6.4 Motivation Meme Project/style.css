@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+}
+
+img{
+    margin-top: 100px;
+    border: 10px solid white;
+}
+
+h1{
+    color: azure;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+p{
+    color: azure;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
