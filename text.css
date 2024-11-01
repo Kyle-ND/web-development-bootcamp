@@ -1,0 +1,74 @@
+p{
+    font-family: Arial;
+}
+
+.video-title{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+
+.view-count ,.video-creator{
+    font-size: 14px;
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.Description{
+    font-size: 14px;
+    color: gray;
+    width: 300px;
+    line-height: 22px;
+    margin-bottom: 100px;
+}
+
+.redirect{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+.course-title{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.course-emphasis{
+    margin-top: 0px;
+    font-size: 14px;
+    color: rgb(99, 96, 96);
+}
+
+.course-description{
+    font-style: italic;
+    width: 280px;
+}
+
+.course-button{
+    border: none;
+    background-color: rgb(12, 228, 66);
+    color: white;
+    font-weight: bold;
+    height:35px;
+    width:120px;
+    cursor: pointer;   
+}
+
+.course-button:hover{
+    opacity: 0.9;
+}
