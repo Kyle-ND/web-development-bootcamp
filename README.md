@@ -6,3 +6,5 @@
 [Flex box cheat sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [Flex box practice](https://appbrewery.github.io/flexboxfroggy/)
+
+[Bootstrap layout practice](https://appbrewery.github.io/bootstrap-layout/)
